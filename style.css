@@ -69,7 +69,7 @@ body {
     .botao{
         display: flex;
     }
-    .botao: :first-child{
+    .botao:first-child{
         border-radius: 40px 0 0 0;
     }
 }
