@@ -65,6 +65,7 @@ body {
 }
 .abas-texto{
     background-color: var(--texto-fundo);
+    padding: 40px;
 }
 
 
